@@ -8,7 +8,7 @@ Utility Logger Module Created by Setar
 - Same as original console, accepting mutli arguments
 
 ## Documentation
-Whole Lib documents are rendered and available in [docs]() folder.
+Whole Lib documents are rendered and available in [docs](https://github.com/SeTar-Bot/Logger/tree/main/docs) folder.
 
 ## Config
 pass this object to setup your own Logger
